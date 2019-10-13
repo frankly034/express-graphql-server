@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Classic T-Shirt - White",
+      "description": "",
+      "imageUrl": "https://images.genflow.com/fit-in/400x0/filters:format(jpeg)/filters:background_color(white)/6a08520dbf11487ab588d4c592897c71.jpg",
+      "quantity": 10,
+      "price": 2500
+    },
+    {
+      "id": "2",
+      "name": "American Football Jersey - Black",
+      "description": "",
+      "imageUrl": "https://images.genflow.com/fit-in/400x0/filters:format(jpeg)/filters:background_color(white)/85121e75fd884569a79ed708bfac5fda.png",
+      "quantity": 7,
+      "price": 5000
+    },
+    {
+      "id": "3",
+      "name": "Star Hoodie - Black",
+      "description": "",
+      "imageUrl": "https://images.genflow.com/fit-in/400x0/filters:format(jpeg)/filters:background_color(white)/8f072819dc2a4278ba11e73906d0e053.png",
+      "quantity": 4,
+      "price": 4500
+    }
+  ]
+}
