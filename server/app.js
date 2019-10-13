@@ -4,8 +4,6 @@ import expressGraphQL from 'express-graphql';
 const port = process.env.PORT || 8000;
 const app = express();
 
-// add routes here
-
 app.all('/graphql', new expressGraphQL({
 }));
 
