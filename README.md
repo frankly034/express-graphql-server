@@ -1,3 +1,3 @@
-# express-babel-setup
+# Express GraphQL Server
 
-Express-Babel-Setup - A simple express startoff template setup with babel, test and code coverage
+Express GraphQL Server is a mini project to demonstrate creation of a graphql backend api service for a single model application for products.
